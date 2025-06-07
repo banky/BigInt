@@ -1,0 +1,7 @@
+# Skip/skip.yml
+skip:
+  mode: "native"
+  bridging:
+    enabled: true
+    auto: true
+    options: "kotlincompat"

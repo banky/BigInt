@@ -1,4 +1,0 @@
-# Skip/skip.yml
-skip:
-  mode: "native" # or 'transpiled', depending on how the code is built
-  bridging: true # auto-bridge all public API
